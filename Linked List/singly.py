@@ -17,4 +17,5 @@ class Node:
         while temp is not None:
             print(temp.data, end=" ")
             temp = temp.next
-   
+
+    
